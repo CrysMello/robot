@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 5.0.1 (Python 3.10.7 on win32)" generated="20220927 09:12:06.891" rpa="false" schemaversion="3">
+<robot generator="Robot 5.0.1 (Python 3.10.7 on win32)" generated="20220927 20:12:15.006" rpa="false" schemaversion="3">
 <suite id="s1" name="Robot Interactive Console" source="c:\Users\cryst\.vscode\extensions\robocorp.robotframework-lsp-1.1.5\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
 <test id="s1-t1" name="Default Task/Test" line="5">
 <kw name="Interpreter Main Loop" library="MainLoop">
-<status status="PASS" starttime="20220927 09:12:07.009" endtime="20220927 09:12:14.700"/>
+<status status="PASS" starttime="20220927 20:12:15.100" endtime="20220927 20:12:23.402"/>
 </kw>
-<status status="PASS" starttime="20220927 09:12:07.006" endtime="20220927 09:12:14.700"/>
+<status status="PASS" starttime="20220927 20:12:15.090" endtime="20220927 20:12:23.402"/>
 </test>
-<status status="PASS" starttime="20220927 09:12:06.896" endtime="20220927 09:12:14.707"/>
+<status status="PASS" starttime="20220927 20:12:15.013" endtime="20220927 20:12:23.407"/>
 </suite>
 <statistics>
 <total>
@@ -20,7 +20,5 @@
 </suite>
 </statistics>
 <errors>
-<msg timestamp="20220927 09:12:08.750" level="ERROR">Error in file 'c:\Users\cryst\OneDrive\Área de Trabalho\robot\in_memory_interpreter.robot' on line 6: Setting variable '@{FRUTAS} Banana Maçã Melância Abacaxi' failed: Invalid variable name '@{FRUTAS} Banana Maçã Melância Abacaxi'.</msg>
-<msg timestamp="20220927 09:12:08.751" level="ERROR">Error in file 'c:\Users\cryst\OneDrive\Área de Trabalho\robot\in_memory_interpreter.robot' on line 6: Setting variable '@{FRUTAS} Banana Maçã Melância Abacaxi' failed: Invalid variable name '@{FRUTAS} Banana Maçã Melância Abacaxi'.</msg>
 </errors>
 </robot>
